@@ -1,4 +1,5 @@
 # Data frp, terraform.tfvars file
+# Dette er en test om at filen blir sync'et
 
 variable "tenancy_ocid" {}
 variable "compartment_ocid" {}
